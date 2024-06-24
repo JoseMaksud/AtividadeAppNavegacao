@@ -7,7 +7,7 @@ export default function EnsinoMedioIntegradoScreen() {
     return (
         <ScrollView style={{ flex: 1 }}>
            <Image style={estilos.logo} source={{ uri: 'https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/87/2024/05/etec_barra_bonita.png' }} />
-        <text>Ensino Médio Integrado</text>
+        <Text>Ensino Médio Integrado</Text>
         </ScrollView>
     );
 }
